@@ -1,4 +1,4 @@
-# Repo_1
+# cpp-algorithms-portfolio
 High-performance C++ implementations of complex algorithms focusing on time complexity optimization and memory efficiency.
 
 ## Solved Problems
